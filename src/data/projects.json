@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Power Discount",
+    "imageSrc": "projects/powerdiscount.png",
+    "description": "Implemented intuitive navigation, responsive design, and fast loading times, augmented by engaging shimmer effects for seamless browsing.",
+    "skills": ["React", "SCSS", "Strapi"],
+    "live": "https://www.example.com",
+    "code": "https://www.github.com"
+  },
+  {
+    "title": "Remote Healthcare Consultations",
+    "imageSrc": "projects/remotep2p.png",
+    "description": "Developed a very light weight one-to-one video chat web application, For real-time communication in remote village.",
+    "skills": ["React.js", "Socket.IO","WebRTC"],
+    "live": "https://www.example.com",
+    "code": "https://www.github.com"
+  },
+  {
+    "title": "Naz Cryptocoin",
+    "imageSrc": "projects/nazcoin.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "Javascript", "Flask", "SQL", "SHA256"],
+    "live": "https://www.example.com",
+    "code": "https://www.github.com"
+  }
+]
