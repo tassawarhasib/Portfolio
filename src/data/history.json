@@ -1,17 +1,9 @@
 [
   {
-    "role": "Full-Stack Developer",
+    "role": "Front-End Developer Intern",
     "organisation": "PSMS Pvt. Ltd.",
     "startDate": "Oct, 2023",
     "endDate": "Present",
-    "experiences": ["Driving the development of a feature-rich job portal, leveraging cutting-edge technologies to deliver an intuitive and responsive user interface.", "Implemented of key features such as user authentication for job seekers and a dynamic blog section to drive user engagement and retention."],
-    "imageSrc": "history/psms.png"
-  },
-  {
-    "role": "Full-Stack Developer Intern",
-    "organisation": "PSMS Pvt. Ltd.",
-    "startDate": "Aug, 2023",
-    "endDate": "Oct, 2023",
     "experiences": ["Took charge of website maintenance initiatives, implementing custom code modifications to elevate functionality and meet specific company objectives.", "Played a pivotal role in the continuous deployment and maintenance of the website, ensuring its accessibility and optimal performance for end-users."],
     "imageSrc": "history/psms.png"
   }

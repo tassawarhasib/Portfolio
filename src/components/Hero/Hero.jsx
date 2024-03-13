@@ -10,7 +10,7 @@ const Hero = () => {
                     Hi, I'm Tassawar Hasib
                 </h1>
                 <p className={styles.description}>
-                    I'm a Software Engineer (Frontend & Full Stack) with 6 months of experince using Reactjs. Reach out if you'd like to Know more!
+                    I'm a Software Engineer (Frontend & Full Stack) with 6 months of experience using Reactjs. Reach out if you'd like to Know more!
                 </p>
                 <div className={styles.heroBtnSection}>
                     <a href="mailto:tassawarhasib@gmail.com" className={styles.contactBtn}>
