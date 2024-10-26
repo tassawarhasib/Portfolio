@@ -1,10 +1,18 @@
 [
   {
-    "role": "Front-End Developer Intern",
+    "role": "Web Developer",
     "organisation": "PSMS Pvt. Ltd.",
-    "startDate": "Oct, 2023",
-    "endDate": "Present",
-    "experiences": ["Took charge of website maintenance initiatives, implementing custom code modifications to elevate functionality and meet specific company objectives.", "Played a pivotal role in the continuous deployment and maintenance of the website, ensuring its accessibility and optimal performance for end-users."],
+    "startDate": "Apr, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": ["Worked closely with senior developers to assist in implementing payment gateways.", "Assisted in managing and monitoring the company’s payroll website to ensure optimal performance.","Contributed to the development and implementation of new features to enhance website functionality.", "Played a significant role in the deployment and ongoing monitoring of the website, ensuring reliability and security."],
     "imageSrc": "history/psms.png"
+  },
+  {
+    "role": "Front-End Developer Intern",
+    "organisation": "Nazra Software Solutions",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Spearheaded the development of the company website, delivering a responsive and user-friendly interface.", "Oversaw the deployment of web applications on cloud platforms, ensuring high availability, performance, and security.", "Collaborated with designers in Figma to create and implement intuitive and visually appealing UI/UX designs."],
+    "imageSrc": "history/Nz-logo-white-Circular.png"
   }
 ]
