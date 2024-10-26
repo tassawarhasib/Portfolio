@@ -10,14 +10,14 @@ const Hero = () => {
                     Hi, I'm Tassawar Hasib
                 </h1>
                 <p className={styles.description}>
-                    I'm a Software Engineer (Frontend & Full Stack) with 6 months of experience using Reactjs. Reach out if you'd like to Know more!
+                    I'm a Software Developer (Frontend) with 6 months of experience using Reactjs. Reach out if you'd like to Know more!
                 </p>
                 <div className={styles.heroBtnSection}>
                     <a href="mailto:tassawarhasib@gmail.com" className={styles.contactBtn}>
                         Contact Me
                     </a>
-                    <a href="mailto:tassawarhasib@gmail.com" className={styles.contactBtn}>
-                        Hire Me
+                    <a href="https://drive.google.com/file/d/15MF8Svfx9nFk0bjqU2Ud9FoXckkNUjUT/view?usp=sharing" target="_blank" className={styles.contactBtn}>
+                        Download CV
                     </a>
                 </div>
 
