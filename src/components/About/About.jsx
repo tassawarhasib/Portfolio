@@ -9,7 +9,7 @@ const About = () => {
 
             <div className={styles.content}>
                 <img
-                    src={getImageUrl("about/aboutImage.png")}
+                    src={getImageUrl("about/tassawarHasibLinkedin.png")}
                     className={styles.aboutimg}
                 />
 
